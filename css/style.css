@@ -1,0 +1,24 @@
+.bg-gradient {
+    background-image: url(../img/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.bg-image {
+    background-image: url(../img/wave.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-shadow {
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.bg-gradiet {
+    background-image: linear-gradient(to right, #e1a5d4, #e2b7e1, #e4c9ec, #e9daf4, #f0eafa, #f0ebfa, #f0ebf9, #f0ecf9, #e6def4, #decfee, #d6c1e8, #d0b2e1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
